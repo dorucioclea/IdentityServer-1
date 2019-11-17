@@ -1,0 +1,80 @@
+2019-08-05 11:36:54.767 -04:00 [INF] Starting IdentityServer4 version 2.5.1.0
+2019-08-05 11:36:54.828 -04:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-05 11:36:54.840 -04:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-08-05 11:36:54.840 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-08-05 11:36:54.840 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-08-05 11:36:54.841 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-08-05 11:36:54.841 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-08-05 11:36:54.841 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-08-05 11:39:28.298 -04:00 [INF] Starting IdentityServer4 version 2.5.1.0
+2019-08-05 11:39:28.336 -04:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-05 11:39:28.351 -04:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-08-05 11:39:28.352 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-08-05 11:39:28.352 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-08-05 11:39:28.352 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-08-05 11:39:28.352 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-08-05 11:39:28.352 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-08-05 11:40:50.733 -04:00 [ERR] 'MS-ASPNETCORE-TOKEN' does not match the expected pairing token 'dbaca351-232f-4679-99df-e42678460ded', request rejected.
+2019-08-05 11:42:42.016 -04:00 [INF] Starting IdentityServer4 version 2.5.1.0
+2019-08-05 11:42:42.059 -04:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-05 11:42:42.067 -04:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-08-05 11:42:42.067 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-08-05 11:42:42.067 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-08-05 11:42:42.067 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-08-05 11:42:42.067 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-08-05 11:42:42.067 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-08-05 11:43:12.704 -04:00 [ERR] 'MS-ASPNETCORE-TOKEN' does not match the expected pairing token '04f6e8c5-dd29-4827-b3e8-a997fc13be74', request rejected.
+2019-08-05 11:45:55.775 -04:00 [INF] Starting IdentityServer4 version 2.5.1.0
+2019-08-05 11:45:55.820 -04:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-05 11:45:55.831 -04:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-08-05 11:45:55.831 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-08-05 11:45:55.831 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-08-05 11:45:55.831 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-08-05 11:45:55.832 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-08-05 11:45:55.832 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-08-05 11:45:56.374 -04:00 [DBG] Login Url: /Account/Login
+2019-08-05 11:45:56.376 -04:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-05 11:45:56.376 -04:00 [DBG] Logout Url: /Account/Logout
+2019-08-05 11:45:56.376 -04:00 [DBG] ConsentUrl Url: /consent
+2019-08-05 11:45:56.376 -04:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-05 11:45:56.376 -04:00 [DBG] Error Url: /home/error
+2019-08-05 11:45:56.376 -04:00 [DBG] Error Id Parameter: errorId
+2019-08-05 11:48:23.767 -04:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-05 11:48:24.499 -04:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-05 11:48:24.499 -04:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-05 11:48:24.503 -04:00 [DBG] Start discovery request
+2019-08-05 11:48:32.339 -04:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2019-08-05 11:48:48.292 -04:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-05 11:48:49.252 -04:00 [INF] {"Username":"bob","Endpoint":"UI","ClientId":null,"Category":"Authentication","Name":"User Login Failure","EventType":"Failure","Id":1001,"Message":"invalid credentials","ActivityId":"0HLOPNG0J07A0:00000004","TimeStamp":"2019-08-05T15:48:49.0000000Z","ProcessId":11460,"LocalIpAddress":"127.0.0.1:7606","RemoteIpAddress":"::1","$type":"UserLoginFailureEvent"}
+2019-08-05 11:48:59.622 -04:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-05 11:48:59.665 -04:00 [INF] {"Username":"alice/bob","Endpoint":"UI","ClientId":null,"Category":"Authentication","Name":"User Login Failure","EventType":"Failure","Id":1001,"Message":"invalid credentials","ActivityId":"0HLOPNG0J07A0:00000005","TimeStamp":"2019-08-05T15:48:59.0000000Z","ProcessId":11460,"LocalIpAddress":"127.0.0.1:7606","RemoteIpAddress":"::1","$type":"UserLoginFailureEvent"}
+2019-08-05 11:49:09.924 -04:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-05 11:49:09.930 -04:00 [INF] {"Username":"alice","Endpoint":"UI","ClientId":null,"Category":"Authentication","Name":"User Login Failure","EventType":"Failure","Id":1001,"Message":"invalid credentials","ActivityId":"0HLOPNG0J07A0:00000006","TimeStamp":"2019-08-05T15:49:09.0000000Z","ProcessId":11460,"LocalIpAddress":"127.0.0.1:7606","RemoteIpAddress":"::1","$type":"UserLoginFailureEvent"}
+2019-08-05 11:49:23.492 -04:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-05 13:07:57.726 -04:00 [INF] Starting IdentityServer4 version 2.5.1.0
+2019-08-05 13:07:57.772 -04:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-05 13:07:57.782 -04:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2019-08-05 13:07:57.782 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2019-08-05 13:07:57.782 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2019-08-05 13:07:57.782 -04:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2019-08-05 13:07:57.782 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2019-08-05 13:07:57.782 -04:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2019-08-05 13:07:58.364 -04:00 [DBG] Login Url: /Account/Login
+2019-08-05 13:07:58.368 -04:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-05 13:07:58.368 -04:00 [DBG] Logout Url: /Account/Logout
+2019-08-05 13:07:58.368 -04:00 [DBG] ConsentUrl Url: /consent
+2019-08-05 13:07:58.368 -04:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-05 13:07:58.368 -04:00 [DBG] Error Url: /home/error
+2019-08-05 13:07:58.368 -04:00 [DBG] Error Id Parameter: errorId
+2019-08-05 13:08:01.152 -04:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2019-08-05 13:08:10.357 -04:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-05 13:08:11.371 -04:00 [DBG] Augmenting SignInContext
+2019-08-05 13:08:11.375 -04:00 [DBG] Adding idp claim with value: local
+2019-08-05 13:08:11.375 -04:00 [DBG] Adding amr claim with value: pwd
+2019-08-05 13:08:11.375 -04:00 [DBG] Adding auth_time claim with value: 1565024891
+2019-08-05 13:08:11.394 -04:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2019-08-05 13:08:11.434 -04:00 [INF] {"Username":"alice","Provider":null,"ProviderUserId":null,"SubjectId":"fd1fe153-e4aa-4745-a7df-5308f78f75ac","DisplayName":"alice","Endpoint":"UI","ClientId":null,"Category":"Authentication","Name":"User Login Success","EventType":"Success","Id":1000,"Message":null,"ActivityId":"0HLOPOTRFTFJQ:00000003","TimeStamp":"2019-08-05T17:08:11.0000000Z","ProcessId":9960,"LocalIpAddress":"127.0.0.1:34544","RemoteIpAddress":"::1","$type":"UserLoginSuccessEvent"}
+2019-08-05 13:08:23.384 -04:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-05 13:08:23.389 -04:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-05 13:08:23.390 -04:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-05 13:08:23.396 -04:00 [DBG] Start discovery request
